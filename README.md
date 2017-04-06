@@ -1,24 +1,26 @@
-# Curiosity
+# Curiosity-Chrome extension
 
-[![Say Thanks](https://img.shields.io/badge/Say%20Thanks!-%F0%9F%A6%89-1EAEDB.svg)](https://saythanks.io/to/mubaris)
+This Chrome extension is based on the website created by Mubaris Hassan called Curiosity which displays github projects as a feed. :zap: :zap:
 
-Find amazing github projects as a feed. :zap: :zap:
+![gif](https://media.giphy.com/media/l2SpYDOrZmp3H2cAAo/giphy.gif)
 
-![gif](https://media.giphy.com/media/l2SpYDOZmp3H2cAAo/giphy.gif)
+## How to use ?
 
-## Peek at Curiosity
-
-![peek](https://i.imgsafe.org/e6a506c205.png)
-
-## How it's done
-
-I've collected usernames of amazing stargazers :star: in Github. By using Github API, Curiosity will collect their stars and will show as a feed.
+- Clone or download the repository and unzip it into your PC
+- Goto chrome->settings->extensions
+- Enable the Developer mode
+- Click on load unpacked extensions
+- Select the folder of extension
+- Chrome extension is added to your chrome browser
 
 ## What you need
 
 You need to submit Github Token to access Github API.
 
-## Tools I used
+## Screesnshots
 
-* [SweetAlert2](https://limonte.github.io/sweetalert2/)
-* [infinite-scroll](https://github.com/alexblack/infinite-scroll)
+![peek](https://github.com/aswanthkoleri/Curiosity-Chrome-extension/blob/master/Screenshot%20from%202017-04-06%2020-34-37.png?raw=true)
+
+## Development
+
+Those who think that this Chrome extension can be made better kindly send your PR's.They will be merged if they make the Chrome extension better !! :-) 
