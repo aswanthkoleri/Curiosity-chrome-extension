@@ -23,4 +23,4 @@ You need to submit Github Token to access Github API.
 
 ## Development
 
-Those who think that this Chrome extension can be made better kindly send your PR's.They will be merged if they make the Chrome extension better !! :-) 
+Those who think that this Chrome extension can be made better kindly send your PR's.They will be merged if they make the Chrome extension better !! :smile:
