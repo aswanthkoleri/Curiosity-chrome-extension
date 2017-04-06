@@ -5,7 +5,7 @@
   "name": "Curiosity",
   "short_name": "Curiosity",
   "description": "A new tab page that displays the top trending GitHub repositories.",
-  "version": "1.0",
+  "version": "0.0.0.1",
   "permissions": [
     "tabs",
     "storage",
