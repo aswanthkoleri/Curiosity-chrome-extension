@@ -19,7 +19,11 @@ You need to submit Github Token to access Github API.
 
 ## Screesnshots
 
-![screenshot](https://github.com/aswanthkoleri/Curiosity-Chrome-extension/blob/master/Screenshot%20from%202017-04-06%2020-34-37.png?raw=true)
+![screenshot1](https://github.com/aswanthkoleri/Curiosity/blob/master/assets/img/screenshot1.png?raw=true)
+
+![screenshot2](https://github.com/aswanthkoleri/Curiosity/blob/master/assets/img/screenshot2.png?raw=true)
+
+![screenshot1](https://github.com/aswanthkoleri/Curiosity/blob/master/assets/img/screenshot3.png?raw=true)
 
 ## Development
 
