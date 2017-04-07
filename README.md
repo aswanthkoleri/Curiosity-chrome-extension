@@ -1,6 +1,6 @@
 # Curiosity
 
-This Chrome extension is based on the website created by [Mubaris NK](https://github.com/mubaris) called Curiosity which displays github projects as a feed.
+This Chrome extension is based on the website created by [Mubaris NK](https://github.com/mubaris) called Curiosity which displays github projects as a feed.This Chrome extension has been published on the chrome Webstore you can add it from this link : [Add extension](https://chrome.google.com/webstore/detail/curiosity/pmggmachmjpmgmfpgbfgdnhheneiedhj?authuser=1)
 
 ![funny gif](https://media.giphy.com/media/D0EjguuQzYr9m/giphy.gif)
 
