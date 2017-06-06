@@ -1,0 +1,19 @@
+{
+    "name": "curiosity",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:mubaris/curiosity.git",
+    "author": "Mubaris",
+    "license": "MIT",
+    "devDependencies": {
+        "codecov": "^2.2.0",
+        "eslint": "^3.19.0",
+        "eslint-config-airbnb-base": "^11.2.0",
+        "eslint-plugin-import": "^2.3.0",
+        "mocha": "^3.4.2"
+    },
+    "scripts": {
+        "lint": "eslint js/**/*.js"
+    },
+    "dependencies": {}
+}

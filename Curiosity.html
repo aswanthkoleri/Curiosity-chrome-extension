@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="assets/css/font-awesome.min.css" />
     <link rel="stylesheet" href="assets/css/emoji.css">
     <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/font-face.css">
     <title>Curiosity</title>
   </head>
   <body>
@@ -16,12 +17,40 @@
       <h1>Curiosity</h1>
     </div>
     <div class="swal"></div>
-    <div><ol id="content"></ol></div>
-  </body>
+    <div id="language_selector"></div>
+    <div id="showMoreLessLanguages"></div>
+    <div id="username_selector"></div>
+    <div id="showMoreLessUsernames"></div>
+    <div id="addOrRemoveUsername"></div>
+    <div id="searching"></div>
+    <div>
+    <div>
+    <ol id="content"></ol>
+    </div>
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-93985002-2', 'auto');
+        ga('send', 'pageview');
+    </script>
   <script type="text/javascript" src="list.js"></script>
   <script type="text/javascript" src="assets/js/sweetalert2.js"></script>
   <script type="text/javascript" src="assets/js/infinite-scroll.js"></script>
   <script type="text/javascript" src="assets/js/emoji.js"></script>
   <script type="text/javascript" src="assets/js/usernames.js"></script>
+   <script type="text/javascript" src="assets/js/usernameSelection.js"></script>
+    <script type="text/javascript" src="assets/js/languageSelection.js"></script>
+     <script type="text/javascript" src="assets/js/languages.js"></script>
   <script type="text/javascript" src="assets/js/main.js"></script>
+  </body>
 </html>
